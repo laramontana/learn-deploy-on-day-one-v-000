@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#lara-matyushenko-cover {
+    background-image: url("http://imgur.com/UQjqICb.jpg");
+}
+
+#lara-matyushenko-card {
+    background-image: url("http://i.imgur.com/zMuPFy7.jpg");
+}
+
 #krystle-barnes-cover {
     background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
 }
